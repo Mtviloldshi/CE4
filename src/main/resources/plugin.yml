@@ -1,0 +1,6 @@
+name: CE4
+version: ${project.version}
+main: me.ce4.ce4.CE4
+commands:
+    CE:
+      description: Hello world!
